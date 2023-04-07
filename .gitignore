@@ -1,0 +1,5 @@
+.env
+indexAPI.html
+node_modules/
+.cache/
+dist/
